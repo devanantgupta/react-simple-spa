@@ -6,9 +6,7 @@ This is a simple React Single Page Application (SPA) that demonstrates the use o
 
 ## 🚀 Live Demo
 
-> You can view the live site [here](https://your-username.github.io/your-repo-name)  
-> *(Replace this link with your actual GitHub Pages or Vercel deployment)*
-
+> You can view the live site https://react-simple-spa.vercel.app/contact
 ---
 
 ## 🧠 Topics Covered
